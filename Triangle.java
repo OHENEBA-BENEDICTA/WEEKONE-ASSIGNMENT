@@ -5,6 +5,6 @@ public class Triangle {
           System.out.println("      TTTTT");
           System.out.println("     TTTTTTT");
           System.out.println("    TTTTTTTTT");
-          System.out.println("   TTTTTTTTTTTTT");
+          System.out.println("  TTTTTTTTTTTTT");
      }
 }
